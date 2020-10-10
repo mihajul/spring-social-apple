@@ -1,0 +1,1 @@
+http\://www.springframework.org/schema/social/apple=org.springframework.social.apple.config.xml.LiveNamespaceHandler
