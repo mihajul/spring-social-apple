@@ -1,4 +1,4 @@
-# spring-social-apple [![Build Status](https://travis-ci.org/mihajul/spring-social-apple.svg)](https://travis-ci.org/mihajul/spring-social-apple) [![Maven Central](https://img.shields.io/maven-central/v/com.github.mihajul/spring-social-apple.svg)](https://img.shields.io/maven-central/v/com.github.mihajul/spring-social-apple.svg) 
+# spring-social-apple [![Build Status](https://travis-ci.org/mihajul/spring-social-apple.svg)](https://travis-ci.org/mihajul/spring-social-apple) [![Maven Central](https://img.shields.io/maven-central/v/com.github.mihajul/spring-social-apple.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.mihajul/spring-social-apple) 
 
 ## Table of Contents  
 - [Introduction](#introduction)  
