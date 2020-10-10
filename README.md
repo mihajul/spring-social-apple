@@ -12,7 +12,7 @@ If you're using Maven in your project, then you can integrate spring-social-appl
 	
 ```xml
 <dependency>
-   <groupId>com.mihajul</groupId>
+   <groupId>com.github.mihajul</groupId>
    <artifactId>spring-social-apple</artifactId>
    <version>1.0.0</version>
 </dependency>
@@ -37,7 +37,7 @@ If you prefer using the latest snapshot build, include the following lines to yo
 
     <dependencies>
         <dependency>
-            <groupId>com.mihajul</groupId>
+            <groupId>com.github.mihajul</groupId>
             <artifactId>spring-social-apple</artifactId>
              <version>1.0.0-SNAPSHOT</version>
         </dependency>
