@@ -92,7 +92,7 @@ Because apple doesn't provide an API to get user data based on the authenticatio
 
 ### Obtaining the user first and last name
 
-Only on the first login into the application the when the apple server makes a POST to the redirect_url you specified ( for example http://your-server/auth/apple ) they include a "user" object 
+On the first login into the application the when the apple server makes a POST to the redirect_url you specified ( for example http://your-server/auth/apple ) they include a "user" object 
 like ```{"name":{"firstName":"XXX","lastName":"XXX"},"email":"xxx@xxx.com"}```
 
 You can parse it using the following code:
