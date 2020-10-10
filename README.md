@@ -1,5 +1,14 @@
 # spring-social-apple [![Build Status](https://travis-ci.org/mihajul/spring-social-apple.svg)](https://travis-ci.org/mihajul/spring-social-apple) [![Maven Central](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg)](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg) 
 
+## Table of Contents  
+- [Introduction](#introduction)  
+- [How to use](#how-to-use)  
+- [Configuring](#configuring)  
+- [Problems and Limitations](#problems)  
+- [License](#license)  
+- [Credits](#credits)  
+
+
 ## <a name="introduction">Introduction</a> [&#8593;](#toc)
 
 A provider extension for Spring Social to enable connectivity with Apple Sign In (Apple ID) https://developer.apple.com/sign-in-with-apple/
@@ -84,7 +93,7 @@ cfConfig.addConnectionFactory(apple);
 ```
 
 
-## <a name="limitations">Problems and Limitations</a> [&#8593;](#toc)
+## <a name="problems">Problems and Limitations</a> [&#8593;](#toc)
 There are some issues because the apple Oauth2 implementation differs from the spring social implementation (it works in a differnent way than google, facebook, twitter, etc. )
 Because apple doesn't provide an API to get user data based on the authentication token, the only information available to us after the login is what we can extract from the signed JWT token (id_token) obtained after the authorization grant code validation:
 - provider user id (unique identifier of the user assigned by apple)
