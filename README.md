@@ -1,4 +1,4 @@
-# spring-social-apple [![Build Status](https://travis-ci.org/mihajul/spring-social-apple.svg)](https://travis-ci.org/mihajul/spring-social-live) [![Maven Central](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg)](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg) 
+# spring-social-apple [![Build Status](https://travis-ci.org/mihajul/spring-social-apple.svg)](https://travis-ci.org/mihajul/spring-social-apple) [![Maven Central](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg)](https://img.shields.io/maven-central/v/com.mihajul/spring-social-apple.svg) 
 
 ## <a name="introduction">Introduction</a> [&#8593;](#toc)
 
@@ -45,7 +45,7 @@ If you prefer using the latest snapshot build, include the following lines to yo
 ```
 
 
-## <a name="projects-using-spring-social-live">Configuring Spring-Social-Apple</a> [&#8593;](#toc)
+## <a name="configuring">Configuring Spring-Social-Apple</a> [&#8593;](#toc)
 
 1. Obtain the necessary ids and keys from apple:
 	- Apple Certificate (.p8)
