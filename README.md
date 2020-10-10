@@ -11,7 +11,7 @@
 
 ## <a name="introduction">Introduction</a> [&#8593;](#toc)
 
-A provider extension for Spring Social (now deprecated) to enable connectivity with Apple Sign In (Apple ID) (Apple ID) https://developer.apple.com/sign-in-with-apple/
+A provider extension for Spring Social (**now deprecated**) to enable connectivity with Apple Sign In (Apple ID) (Apple ID) https://developer.apple.com/sign-in-with-apple/
 
 ## <a name="how-to-use">How to Use</a> [&#8593;](#toc)
 
